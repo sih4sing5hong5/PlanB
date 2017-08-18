@@ -40,10 +40,10 @@ local require = GLOBAL.require
 local STRINGS = GLOBAL.STRINGS
 
 -- The character select screen lines
-STRINGS.CHARACTER_TITLES.esctemplate = "The Sample Character"
+STRINGS.CHARACTER_TITLES.esctemplate = "Oh no, morning comes..."
 STRINGS.CHARACTER_NAMES.esctemplate = "Esc"
-STRINGS.CHARACTER_DESCRIPTIONS.esctemplate = "*Perk 1\n*Perk 2\n*Perk 3"
-STRINGS.CHARACTER_QUOTES.esctemplate = "\"Quote\""
+STRINGS.CHARACTER_DESCRIPTIONS.esctemplate = "*Bed roll\n*Tent\n*Siesta Lean-to"
+STRINGS.CHARACTER_QUOTES.esctemplate = "\"Iu2 ho5 put4-kho2?\""
 
 -- Custom speech strings
 STRINGS.CHARACTERS.ESCTEMPLATE = require "speech_esctemplate"
